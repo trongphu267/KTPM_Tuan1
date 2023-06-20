@@ -65,5 +65,7 @@ public class MessageSender
 
 		System.out.println("Message '" + message.getText() + ", Sent Successfully to the Queue");
 		connection.close();
+		///test
+		
 	}
 }
